@@ -1,0 +1,24 @@
+{
+  "name": "sg-backend-pertama",
+  "version": "1.0.0",
+  "description": "API for bootcamps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alif1234543/sg-backend-pertama.git"
+  },
+  "author": "alif_ir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alif1234543/sg-backend-pertama/issues"
+  },
+  "homepage": "https://github.com/alif1234543/sg-backend-pertama#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
